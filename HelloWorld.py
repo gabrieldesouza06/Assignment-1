@@ -1,8 +1,10 @@
 # Assignment 1 Template file
 
-# Student Name:
-# Student ID:
-# Collaborators (if any):
+# Student Name: Gabriel DeSouza
+# Student ID: 100971265
+# Collaborators (if any): None
 
 def HelloWorld(name):
-  # Your code goes here
+  return('Hello ' +name+ '!')
+#Example with my name:
+print(HelloWorld('Gabriel DeSouza'))
